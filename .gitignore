@@ -1,0 +1,206 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Runtime files
+*.pid
+*.seed
+*.cover
+*.json
+*.toml
+
+# IDE specific files
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+pip-log.txt
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# C/C++
+*.obj
+*.elf
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# C#
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.app
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.tgz
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Rust
+target/
+Cargo.lock
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.config/
+coverage/
+InstalledFiles
+pkg/
+.ruby-version
+.ruby-gemset
+.rvmrc
+
+# PHP
+vendor/
+composer.lock
+
+# Haskell
+dist/
+.cabal-sandbox/
+cabal.sandbox.config
+
+# Swift
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserdatad/
+*.playground/
+DerivedData/
+
+# TeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.ist
+*.loa
+*.lop
+*.mw
+*.nav
+*.pre
+*.snm
+*.vrb
+*.xdv
+
+# LaTeX intermediate and build files
+latexmkrc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Python virtualenv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Project specific
+.vscode/
+.vs/
+.idea/
+*.code-workspace
